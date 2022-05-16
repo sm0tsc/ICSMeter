@@ -11,8 +11,8 @@
 #define CI_V_ADDRESS 0xA4                       // CI-V default address 0xA4
 
 // Wifi Config
-#define WIFI_SSID       "YOUR WIFI SSID"        // Your WiFi SSID
-#define WIFI_PASSWORD   "YOUR WIFI PASSWORD"    // Your WiFi Password
+#define WIFI_SSID       "Wireless"        // Your WiFi SSID
+#define WIFI_PASSWORD   "ZardoZ700803sm0tscZardoZ650823"    // Your WiFi Password
 
 // Proxy Config
 #define SERIAL_DEVICE "/dev/ttyUSB0"            // Proxy Serial Device (/dev/ttyACM0, /dev/ttyUSB0, COM10, etc.)
